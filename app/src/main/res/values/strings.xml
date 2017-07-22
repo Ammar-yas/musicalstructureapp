@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">musical structure app</string>
+    <string name="library_description">Music library is the main acitvity of the app and user
+        can choose to play music or discover online music</string>
+    <string name="discover_music">Discover music</string>
+    <string name="now_playing">Now playing</string>
+    <string name="now_playing_description">Now playing activity is where user get when he click on
+        album in the libray to show what is playing and give capability to pause, skip or rewind
+        and he can go to discover music activity to discover similar music</string>
+    <string name="buy_online">Buy online</string>
+    <string name="discover_music_description">here user can discover new music and can select
+        what he wants to buy if he wish</string>
+    <string name="buy_online_description">here user can buy music online from the player store and payments is handled by android Pay API</string>
+    <string name="android_pay">Android Pay is a free service that allows merchants to process frictionless payments for mobile and e-commerce transactions.</string>
+</resources>
