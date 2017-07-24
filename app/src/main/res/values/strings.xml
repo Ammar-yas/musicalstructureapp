@@ -12,4 +12,5 @@
         what he wants to buy if he wish</string>
     <string name="buy_online_description">here user can buy music online from the player store and payments is handled by android Pay API</string>
     <string name="android_pay">Android Pay is a free service that allows merchants to process frictionless payments for mobile and e-commerce transactions.</string>
+    <string name="your_library">Your library</string>
 </resources>
